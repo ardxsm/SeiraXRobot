@@ -477,7 +477,7 @@ def seira_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="SETH", url="https://github.com/xyzsethhh"),
+                        InlineKeyboardButton(text="ʀᴇᴘᴏ", url="www.xnxx.com"),
                     ],
                     [
                         InlineKeyboardButton(text="Paul Larsen", url="https://github.com/PaulSonOfLars"),
